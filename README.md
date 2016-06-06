@@ -21,6 +21,7 @@ cd emscripten-js-msx-games/
 ```
 
 Server
+
 ```
 python -m SimpleHTTPServer 9090
 ```
@@ -36,7 +37,7 @@ open http://localhost:9090
 ![Preview](doc/preview.png)
 
 
-# Tested Browser
+# Tested Browsers
 
 Browser | Performance |
 ------------- | -------------
@@ -45,3 +46,10 @@ Chrome | Fast
 Safari | Slow
 Opera | Normal
 IE | Didn't try
+
+
+# References
+
+1. WebMSX
+
+	[http://webmsx.org/](http://webmsx.org/)
