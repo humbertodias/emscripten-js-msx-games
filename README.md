@@ -1,4 +1,4 @@
-# Emscripten js-dos Games
+# Emscripten js-msx Games
 
 Play old msx games on your browser
 
